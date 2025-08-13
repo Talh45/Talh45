@@ -14,8 +14,11 @@ My journey in computer networks and Communication systems has led me to develop 
 
 | Skill                                                | Associated Project         |
 |-----------------------------------------------       |----------------------------|
-|  Secure Home Network Setup and Configuration         | <a href="https://google.com">Network Home Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Secure Home Network Setup and Configuration          | <a href="https://google.com">Network Home Lab</a>|
+| Linux secure user Management                         | <a href="https://google.com">Linux user Management</a>|
+| Windows AD Home Lab                                  | <a href="https://google.com">Windows AD Home Lab</a>
+
+
 
 
 
