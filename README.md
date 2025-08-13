@@ -12,10 +12,12 @@ My journey in computer networks and Communication systems has led me to develop 
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Home Network Setup and Configuration          | <a href="https://google.com">Network Home Lab</a>|
+| Skill                                                | Associated Project         |
+|-----------------------------------------------       |----------------------------|
+|  Secure Home Network Setup and Configuration         | <a href="https://google.com">Network Home Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+
+
 
 
 ## Tools
