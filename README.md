@@ -8,7 +8,9 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey in computer networks and Communication systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am a recent graduate with a strong foundation in computer networks and system management.  
+With hands-on experience in Linux, Windows, and security hardening, I am eager to begin my career as a System Administrator, ensuring reliable, secure, and efficient IT operations.  
+
 
 ## Skills
 
