@@ -12,11 +12,11 @@ My journey in computer networks and Communication systems has led me to develop 
 
 ## Skills
 
-| Skill                                                | Associated Project         |
-|-----------------------------------------------       |----------------------------|
-| Secure Home Network Setup and Configuration          | <a href="https://google.com">Network Home Lab</a>|
+| Skill                                                | Associated Project      
 | Linux secure user Management                         | <a href="https://google.com">Linux user Management</a>|
-| Windows AD Home Lab                                  | <a href="https://google.com">Windows AD Home Lab</a>
+| Windows AD Home Lab                                  | <a href="https://google.com">Windows AD Home Lab</a> |
+| Linux Playbook                                       | <a href="https://google.com">Linux Playbook</a> |
+| Windows Playbook                                     | <a href="https://google.com">Windows Playbook</a> |
 
 
 
@@ -30,21 +30,38 @@ My journey in computer networks and Communication systems has led me to develop 
    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+
 
 </div>
 
-### Endpoint
+#### 🟦 Windows Administration
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Active_Directory-003366?&style=for-the-badge&logo=windows&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Group_Policy-0078D7?&style=for-the-badge&logo=windows&logoColor=white" />
+   <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
 </div>
 
-### SIEM
+#### 🟠 Linux Administration
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+   <img src="https://img.shields.io/badge/-User_&_Group_Management-4EAA25?&style=for-the-badge&logo=linux&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Permissions_&_ACLs-555555?&style=for-the-badge&logo=linux&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Systemd_Services-FF6C37?&style=for-the-badge&logo=linux&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Networking_(IP,DNS,Firewall)-1679A7?&style=for-the-badge&logo=linux&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Log_Analysis_(journalctl,dmesg)-777BB4?&style=for-the-badge&logo=linux&logoColor=white" />
+   <img src="https://img.shields.io/badge/-SELinux_AppArmor-FF0000?&style=for-the-badge&logo=linux&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Shell_Tools_(awk,sed,grep)-00B140?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+   <img src="https://img.shields.io/badge/-LVM_&_Disk_Management-444444?&style=for-the-badge&logo=linux&logoColor=white" />
+</div>
+
+#### ⚙️ Automation & Virtualization
+
+<div>
+   <img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+   <img src="https://img.shields.io/badge/-PowerShell_Scripting-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=ansible&logoColor=white" />
+   <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
+   <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
 </div>
 
 ## Certifications
