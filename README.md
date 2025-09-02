@@ -8,8 +8,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-I am a recent graduate with a strong foundation in computer networks and system management.  
-With hands-on experience in Linux, Windows, and security hardening, I am eager to begin my career as a System Administrator, ensuring reliable, secure, and efficient IT operations.  
+My journey in computer networks and system management has led me to develop a passion for IT administration, and I am now eager to begin my career as a System Administrator.  
 
 
 ## Skills
