@@ -12,11 +12,12 @@ My journey in computer networks and Communication systems has led me to develop 
 
 ## Skills
 
-| Skill                                                | Associated Project      
-| Linux secure user Management                         | <a href="https://google.com">Linux user Management</a>|
-| Windows AD Home Lab                                  | <a href="https://google.com">Windows AD Home Lab</a> |
-| Linux Playbook                                       | <a href="https://google.com">Linux Playbook</a> |
-| Windows Playbook                                     | <a href="https://google.com">Windows Playbook</a> |
+| Skill                        | Associated Project |
+|-------------------------------|--------------------|
+| Linux Secure User Management | [Linux User Management](https://google.com) |
+| Windows AD Home Lab          | [Windows AD Home Lab](https://google.com) |
+| Linux Playbook               | [Linux Playbook](https://google.com) |
+| Windows Playbook             | [Windows Playbook](https://google.com) |
 
 
 
