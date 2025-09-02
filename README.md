@@ -27,7 +27,7 @@ My journey in computer networks and system management has led me to develop a pa
 
 ## Tools
 
-### Network
+### Networking
 <div>
    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -36,7 +36,7 @@ My journey in computer networks and system management has led me to develop a pa
 
 </div>
 
-#### 🟦 Windows Administration
+### Windows Administration
 <div>
    <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
    <img src="https://img.shields.io/badge/-Active_Directory-003366?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -44,7 +44,7 @@ My journey in computer networks and system management has led me to develop a pa
    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
 </div>
 
-#### 🟠 Linux Administration
+### Linux Administration
 <div>
    <img src="https://img.shields.io/badge/-User_&_Group_Management-4EAA25?&style=for-the-badge&logo=linux&logoColor=white" />
    <img src="https://img.shields.io/badge/-Permissions_&_ACLs-555555?&style=for-the-badge&logo=linux&logoColor=white" />
