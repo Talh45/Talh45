@@ -56,7 +56,7 @@ My journey in computer networks and system management has led me to develop a pa
    <img src="https://img.shields.io/badge/-LVM_&_Disk_Management-444444?&style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
-#### ⚙️ Automation & Virtualization
+### Automation & Virtualization
 
 <div>
    <img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
