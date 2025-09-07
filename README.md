@@ -14,11 +14,12 @@ My journey in computer networks and system management has led me to develop a pa
 ## Skills
 
 | Skill                        | Associated Project |
-|-------------------------------|--------------------|
-| Linux Secure User Management | [Linux User Management](https://google.com) |
-| Windows AD Home Lab          | [Windows AD Home Lab](https://google.com) |
-| Linux Playbook               | [Linux Playbook](https://google.com) |
-| Windows Playbook             | [Windows Playbook](https://google.com) |
+|-------------------------------|------------------|
+| Linux Secure User Management  | [Linux User Management](https://github.com/<your-username>/<linux-user-repo>) |
+| Windows AD Home Lab           | [Windows AD Home Lab](https://github.com/Talh45/Windows-AD-Lab) |
+| Linux Playbook                | [Linux Playbook](https://github.com/<your-username>/<linux-playbook-repo>) |
+| Windows Playbook              | [Windows Playbook](https://github.com/<your-username>/<windows-playbook-repo>) |
+
 
 
 
@@ -75,5 +76,5 @@ My journey in computer networks and system management has led me to develop a pa
 </div>
 
 ## Projects
-- Detection Lab
+- [Windows AD Home Lab](https://github.com/Talh45/Windows-AD-Lab)
 - SOC Automation Project
