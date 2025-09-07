@@ -15,10 +15,10 @@ My journey in computer networks and system management has led me to develop a pa
 
 | Skill                        | Associated Project |
 |-------------------------------|------------------|
-| Linux Secure User Management  | [Linux User Management](https://github.com/<your-username>/<linux-user-repo>) |
-| Windows AD Home Lab           | [Windows AD Home Lab](https://github.com/Talh45/Windows-AD-Lab) |
-| Linux Playbook                | [Linux Playbook](https://github.com/<your-username>/<linux-playbook-repo>) |
-| Windows Playbook              | [Windows Playbook](https://github.com/<your-username>/<windows-playbook-repo>) |
+| Linux User Management         | [Linux User Management](https://github.com/<your-username>/<linux-user-repo>) |
+| Windows AD, Log Analysis      | [Windows AD Home Lab](https://github.com/Talh45/Windows-AD-Lab) |
+| Linux Administration          | [Linux Playbook](https://github.com/<your-username>/<linux-playbook-repo>) |
+| Windows Administration        | [Windows Playbook](https://github.com/<your-username>/<windows-playbook-repo>) |
 
 
 
@@ -31,8 +31,10 @@ My journey in computer networks and system management has led me to develop a pa
 ### Networking
 <div>
    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-<img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Nmap-66CCFF?&style=for-the-badge&logo=Nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/-Traceroute-F9A825?&style=for-the-badge&logo=none&logoColor=white" />
+<img src="https://img.shields.io/badge/-Netstat-1976D2?&style=for-the-badge&logo=none&logoColor=white" />
+
 
 
 </div>
@@ -50,7 +52,6 @@ My journey in computer networks and system management has led me to develop a pa
    <img src="https://img.shields.io/badge/-User_&_Group_Management-4EAA25?&style=for-the-badge&logo=linux&logoColor=white" />
    <img src="https://img.shields.io/badge/-Permissions_&_ACLs-555555?&style=for-the-badge&logo=linux&logoColor=white" />
    <img src="https://img.shields.io/badge/-Systemd_Services-FF6C37?&style=for-the-badge&logo=linux&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Networking_(IP,DNS,Firewall)-1679A7?&style=for-the-badge&logo=linux&logoColor=white" />
    <img src="https://img.shields.io/badge/-Log_Analysis_(journalctl,dmesg)-777BB4?&style=for-the-badge&logo=linux&logoColor=white" />
    <img src="https://img.shields.io/badge/-SELinux_AppArmor-FF0000?&style=for-the-badge&logo=linux&logoColor=white" />
    <img src="https://img.shields.io/badge/-Shell_Tools_(awk,sed,grep)-00B140?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
