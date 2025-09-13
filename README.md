@@ -19,6 +19,7 @@ My journey in computer networks and system management has led me to develop a pa
 | Windows AD, Log Analysis      | [Windows AD Home Lab](https://github.com/Talh45/Windows-AD-Lab) |
 | Linux Administration          | [Linux Playbook](https://github.com/<your-username>/<linux-playbook-repo>) |
 | Windows Administration        | [Windows Playbook](https://github.com/<your-username>/<windows-playbook-repo>) |
+| Desktop/IT Support Playbook   | [Desktop/IT support Playbook](https://github.com/Talh45/Desktop-Support-Playbook)
 
 
 
