@@ -26,7 +26,7 @@ My journey in computer networks and system management has led me to develop a pa
 
 
 
-## Tools
+## Core Competencies
 
 ### Networking
 <div>
