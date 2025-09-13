@@ -8,7 +8,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey in computer networks and system management has led me to develop a passion for IT administration, and I am now eager to begin my career as a System Administrator.  
+My journey in computer networks and system management has led me to develop a passion for IT administration, and I am now eager to begin my career as a Desktop / IT Support, System Administrator.  
 
 
 ## Skills
@@ -34,6 +34,7 @@ My journey in computer networks and system management has led me to develop a pa
    <img src="https://img.shields.io/badge/-Nmap-66CCFF?&style=for-the-badge&logo=Nmap&logoColor=white" />
 <img src="https://img.shields.io/badge/-Traceroute-F9A825?&style=for-the-badge&logo=none&logoColor=white" />
 <img src="https://img.shields.io/badge/-Netstat-1976D2?&style=for-the-badge&logo=none&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network Troubleshooting-1976D2?&style=for-the-badge&logo=none&logoColor=white" />
 
 
 
@@ -45,6 +46,7 @@ My journey in computer networks and system management has led me to develop a pa
    <img src="https://img.shields.io/badge/-Active_Directory-003366?&style=for-the-badge&logo=windows&logoColor=white" />
    <img src="https://img.shields.io/badge/-Group_Policy-0078D7?&style=for-the-badge&logo=windows&logoColor=white" />
    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Windows Troubleshooting-1976D2?&style=for-the-badge&logo=none&logoColor=white" />
 </div>
 
 ### Linux Administration
@@ -53,7 +55,6 @@ My journey in computer networks and system management has led me to develop a pa
    <img src="https://img.shields.io/badge/-Permissions_&_ACLs-555555?&style=for-the-badge&logo=linux&logoColor=white" />
    <img src="https://img.shields.io/badge/-Systemd_Services-FF6C37?&style=for-the-badge&logo=linux&logoColor=white" />
    <img src="https://img.shields.io/badge/-Log_Analysis_(journalctl,dmesg)-777BB4?&style=for-the-badge&logo=linux&logoColor=white" />
-   <img src="https://img.shields.io/badge/-SELinux_AppArmor-FF0000?&style=for-the-badge&logo=linux&logoColor=white" />
    <img src="https://img.shields.io/badge/-Shell_Tools_(awk,sed,grep)-00B140?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
    <img src="https://img.shields.io/badge/-LVM_&_Disk_Management-444444?&style=for-the-badge&logo=linux&logoColor=white" />
 </div>
