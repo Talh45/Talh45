@@ -35,6 +35,8 @@ My journey in computer networks and system management has led me to develop a pa
 <img src="https://img.shields.io/badge/-Traceroute-F9A825?&style=for-the-badge&logo=none&logoColor=white" />
 <img src="https://img.shields.io/badge/-Netstat-1976D2?&style=for-the-badge&logo=none&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network Troubleshooting-1976D2?&style=for-the-badge&logo=none&logoColor=white" />
+<img src="https://img.shields.io/badge/-DNS-1976D2?&style=for-the-badge&logo=none&logoColor=white" />
+<img src="https://img.shields.io/badge/-DHCP-1976D2?&style=for-the-badge&logo=none&logoColor=white" />
 
 
 
