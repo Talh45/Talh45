@@ -99,6 +99,16 @@ To transition into a **DevOps / Cloud Engineer role**, where I can leverage my b
 
 👉 [View Project](https://github.com/Talh45/blog-app-ansible)
 
+### 🔹 Infrastructure Provisioning using Terraform (AWS EC2 + Nginx)
+- Provisioned AWS infrastructure using Terraform (EC2, Security Groups, Key Pair)
+- Automated deployment of a web server with Nginx using user data scripts
+- Configured networking rules to allow HTTP (80) and SSH (22) access
+- Implemented Infrastructure as Code (IaC) for repeatable and consistent deployments
+- Managed resource lifecycle using Terraform commands (init, plan, apply, destroy)
+- Gained hands-on experience with state management and infrastructure automation
+
+👉 [View Project](https://github.com/Talh45/blog-terraform)
+
 ---
 
 ## 📈 Current Focus
