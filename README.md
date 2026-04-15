@@ -92,7 +92,7 @@ To transition into a **DevOps / Cloud Engineer role**, where I can leverage my b
 
 ## 🚀 Projects
 
-### 🔹 Automated Web Deployment using Ansible & Nginx
+### 🔹 Automated Web Deployment using Ansible & Nginx(1-tier)
 - Deployed a static web application on AWS EC2
 - Automated Nginx installation and configuration using Ansible
 - Integrated GitHub for application deployment
@@ -101,7 +101,7 @@ To transition into a **DevOps / Cloud Engineer role**, where I can leverage my b
 
 👉 [View Project](https://github.com/Talh45/blog-app-ansible)
 
-### 🔹 Infrastructure Provisioning using Terraform (AWS EC2 + Nginx)
+### 🔹 Infrastructure Provisioning using Terraform (1-tier)
 - Provisioned AWS infrastructure using Terraform (EC2, Security Groups, Key Pair)
 - Automated deployment of a web server with Nginx using user data scripts
 - Configured networking rules to allow HTTP (80) and SSH (22) access
