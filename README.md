@@ -20,7 +20,7 @@ To transition into a **DevOps / Cloud Engineer role**, where I can leverage my b
 
 | Skill                         | Associated Project |
 |------------------------------|------------------|
-| Ansible                      | [Ansible Nginx Deployment](https://github.com/Talh45/blog-app-ansible) |
+| Kubernetes, Monitoring       | [PayOps Fintech Platform]https://github.com/Talh45/payops-fintech-platform |
 | Terraform                    | [Terraform AWS Deployment](https://github.com/Talh45/blog-terraform) |
 | Windows AD & Log Analysis    | [Windows AD Home Lab](https://github.com/Talh45/Windows-AD-Lab) |
 
